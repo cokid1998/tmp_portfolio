@@ -67,7 +67,7 @@ function Project({ id, navTabs }: TabsPropsT) {
                 tag={item.tag}
                 imgurl={item.imgurl}
                 giturl={item.giturl}
-                depoloyurl={item.depoloyurl}
+                depoloyurl=""
               />
             ))}
             {filterDataList.map((item, idx) => (
