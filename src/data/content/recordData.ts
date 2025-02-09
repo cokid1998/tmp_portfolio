@@ -1,6 +1,6 @@
 export const recordData = [
   {
-    data: '2023.02 - 2023.08',
+    data: '2022.07 - 2023.01',
     title: '코드스테이츠',
     role: '@ 프론트엔드 엔지니어 과정 부트캠프 수료',
     infos: [
@@ -12,9 +12,9 @@ export const recordData = [
     stacks: ['html', 'css', 'javascript', 'react', 'github', 'figma'],
   },
   {
-    data: '2015.03 - 2017.02',
-    title: '전주비전대학교',
-    role: '@ 컴퓨터정보과 전문학사 졸업',
+    data: '2017.03 ~',
+    title: '조선대학교',
+    role: '@ 경영학과 / 컴퓨터공학과',
     infos: ['자료구조, 운영체제 등 CS 학습', 'HTML, CSS, JavaScript 등 프로그래밍 언어 학습'],
     stacks: ['html', 'css', 'ps', 'ai'],
   },

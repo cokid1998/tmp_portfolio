@@ -64,7 +64,7 @@ function Main() {
 
         <TextWrap />
 
-        <Img
+        {/* <Img
           onClick={goToTarget}
           initial={OPACITY_0}
           animate={OPACITY_1}
@@ -73,7 +73,7 @@ function Main() {
           ismobile={ismobile}
           alt='최지은 인물 사진'
           loading='lazy'
-        />
+        /> */}
 
         <InfoWrap delay={3} />
 

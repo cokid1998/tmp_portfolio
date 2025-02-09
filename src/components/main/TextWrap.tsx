@@ -42,7 +42,7 @@ function TextWrap() {
           animate={{ ...OPACITY_1, y: WINDOW_HEIGHT }}
           transition={ANI_TRANSITION}
         >
-          프론트엔드 개발자 <StTxt>최지은</StTxt>입니다.
+          프론트엔드 개발자 <StTxt>이태관</StTxt>입니다.
           <BgText>
             <AnimationP
               initial={{ y: 150 }}
